@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Graduated with a Diploma in Computer Science from **Tshwane University of Technology (TUT)** .
-- 💼 Currently specializing in **Java, Python, Javascript**, and modern frameworks like **Spring Boot, React.js, Node.js, and Django REST**.
+- 🎓 Qualified with an Advanced Diploma in Computer Science.
+- 💼 Specializing in **Java, Python, Javascript**, and modern frameworks like **Spring Boot, React.js, Node.js, and Django REST**.
 - 🔐 Strong focus on secure system design (JWT, RBAC) and Agile/Scrum methodologies.
-- 🏆 Recognized with the **Excellence Award (TUT 2024)** and actively participate in Cybersecurity CTFs (Zero Day & World Wide CTF).
+- 🏆 Recognized with multiple Academic Excellence Awards and active participation in Cybersecurity CTFs.
 - 🌱 Always experimenting with scalable microservices, IoT integrations, and AI-powered utilities.
 
 ---
@@ -68,20 +68,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programcipher&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programcipher&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programcipher&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
----
 <div align="center">
   <i>"Writing clean code today creates scalable architecture tomorrow."</i>
 </div>
