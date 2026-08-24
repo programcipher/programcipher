@@ -60,10 +60,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Student Care System](#)** | Modular, role-based platform supporting 4 distinct user dashboards with permission isolated data access. | Django REST, React.js, PostgreSQL |
-| **[Event Handler Platform](#)** | Cross-platform event management spanning a React Native app, interactive web dashboard, and Node.js webhook API. | Node.js, Express, Prisma, Expo |
-| **[Makhis Mnandi](#)** | End-to-end food ordering platform built on a microservices architecture. | Node.js, Docker, Microservices |
-| **[Smart Borehole Monitoring](#)** | IoT-enabled monitoring system providing real-time sensor data visualization and historical analytics. | Node.js, Prisma, Vite, IoT |
+| 🔐 **Confidential Enterprise Systems** | Engineered robust, scalable architectures for confidential production systems using microservices and role-based access control. *(Private Repositories)* | Node.js, Spring Boot, React Native, Docker |
+| 🛒 **[Simple To Do List API](https://github.com/programcipher/simple-to-do-list-api)** | Open-source utility showcasing clean RESTful design and efficient database interactions. | Node.js, Express, PostgreSQL |
+| 🏦 **[ATM GUI Simulator](https://github.com/programcipher/ATMGUI)** | Java Swing-based ATM simulation with account management and transaction processing. | Java, Swing, OOP |
 
 *(🔗 Want to see more? Check out my repositories below!)*
 
