@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm Mpho! 👋</h1>
+  <a href="https://portfolio-empty-night-7779.fly.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_View_My_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <br><br>
   <h3>Engineering scalable web applications & robust backend systems.</h3>
   <br>
   <a href="https://linkedin.com/in/mpho-ramaloko">
@@ -70,10 +73,10 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="48%">
-  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="48%">
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%">
-  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="48%">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%">
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="48%">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="48%">
 </div>
 
 ---
