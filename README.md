@@ -67,13 +67,13 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 📊 GitHub Activity & Metrics
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programcipher/programcipher/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/programcipher/programcipher/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/programcipher/programcipher/output/github-snake.svg">
-  </picture>
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="48%">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="48%">
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" width="48%">
 </div>
 
 ---
