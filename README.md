@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Mpho! ??</h1>
+  <h1>Hi there, I'm Mpho! 👋</h1>
   <h3>Engineering scalable web applications & robust backend systems.</h3>
   <br>
   <a href="https://linkedin.com/in/mpho-ramaloko">
@@ -12,17 +12,17 @@
 
 ---
 
-### ????? About Me
+### 👨‍💻 About Me
 
-- ?? Qualified with an **Advanced Diploma in Computer Science**.
-- ?? Specializing in **Java, Python, Javascript**, and modern frameworks like **Spring Boot, Next.js, Node.js, and Django REST**.
-- ?? Strong focus on secure enterprise system design (JWT, RBAC) and Agile/Scrum methodologies.
-- ?? Recognized with multiple **Academic Excellence Awards** and active participation in Cybersecurity CTFs.
-- ?? Always experimenting with scalable microservices, IoT integrations, and AI-powered utilities.
+- 🎓 Qualified with an **Advanced Diploma in Computer Science**.
+- 💼 Specializing in **Java, Python, Javascript**, and modern frameworks like **Spring Boot, Next.js, Node.js, and Django REST**.
+- 🔐 Strong focus on secure enterprise system design (JWT, RBAC) and Agile/Scrum methodologies.
+- 🏆 Recognized with multiple **Academic Excellence Awards** and active participation in Cybersecurity CTFs.
+- 🌱 Always experimenting with scalable microservices, IoT integrations, and AI-powered utilities.
 
 ---
 
-### ??? Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 **Languages**
 <p>
@@ -55,19 +55,19 @@
 
 ---
 
-### ?? Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| ?? **Confidential Enterprise Systems** | Engineered robust, scalable architectures for confidential production systems using microservices and role-based access control. *(Private Repositories)* | Node.js, Spring Boot, React Native, Docker |
-| ?? **[Simple To Do List API](https://github.com/programcipher/simple-to-do-list-api)** | Open-source utility showcasing clean RESTful design and efficient database interactions. | Node.js, Express, PostgreSQL |
-| ?? **[ATM GUI Simulator](https://github.com/programcipher/ATMGUI)** | Java Swing-based ATM simulation with account management and transaction processing. | Java, Swing, OOP |
+| 🔐 **Confidential Enterprise Systems** | Engineered robust, scalable architectures for confidential production systems using microservices and role-based access control. *(Private Repositories)* | Node.js, Spring Boot, React Native, Docker |
+| 🛒 **[Simple To Do List API](https://github.com/programcipher/simple-to-do-list-api)** | Open-source utility showcasing clean RESTful design and efficient database interactions. | Node.js, Express, PostgreSQL |
+| 🏦 **[ATM GUI Simulator](https://github.com/programcipher/ATMGUI)** | Java Swing-based ATM simulation with account management and transaction processing. | Java, Swing, OOP |
 
-*(?? Want to see more? Check out my repositories below!)*
+*(🔗 Want to see more? Check out my repositories below!)*
 
 ---
 
-### ?? Contribution Activity
+### 🐍 Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programcipher/programcipher/output/github-snake-dark.svg">
