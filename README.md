@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Qualified with an **Advanced Diploma in Computer Science**.
+- 🎓 Qualified in **Computer Science**.
 - 💼 Specializing in **Java, Python, Javascript**, and modern frameworks like **Spring Boot, Next.js, Node.js, and Django REST**.
 - 🔐 Strong focus on secure enterprise system design (JWT, RBAC) and Agile/Scrum methodologies.
 - 🏆 Recognized with multiple **Academic Excellence Awards** and active participation in Cybersecurity CTFs.
