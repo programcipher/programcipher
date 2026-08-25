@@ -70,16 +70,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%">
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%">
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="48%">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="48%">
-</div>
-
----
 <div align="center">
   <i>"Writing clean code today creates scalable architecture tomorrow."</i>
 </div>
