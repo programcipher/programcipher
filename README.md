@@ -1,14 +1,17 @@
 <div align="center">
-  <a href="https://portfolio-empty-night-7779.fly.dev" target="_blank">
+  <a href="https://ramalokom.co.za" target="_blank">
     <img src="https://img.shields.io/badge/🌍_View_My_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
+  <a href="https://ramalokom.co.za/cv/Mpho-Ramaloko-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_My_CV_/_Resume-20232A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV / Resume" />
+  </a>
   <br><br>
-  <h3>Engineering scalable web applications & robust backend systems.</h3>
+  <h3>Founder & CEO | Engineering scalable web applications & robust backend systems.</h3>
   <br>
   <a href="https://linkedin.com/in/mpho-ramaloko">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ramalokom@outlook.com">
+  <a href="mailto:ramaloko.m@ramaloko.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
